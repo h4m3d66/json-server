@@ -35,7 +35,8 @@
  "coordinate":{
         "longitude": 51.45730308532715,
         "latitude":35.732789153613846
-      } 
+      } ,
+            "current_page":1
 },
         
 {
@@ -48,7 +49,8 @@
  "coordinate":{
         "longitude": 51.45730308532715,
         "latitude":35.792789153613846
-      }
+      } ,
+            "current_page":1
 },
         {
 "id":"3",
@@ -72,7 +74,8 @@
  "coordinate":{
         "longitude": 51.46730308532715,
         "latitude":35.752789153613846
-      }
+      } ,
+            "current_page":1
 },
         {
 "id":"5",
@@ -97,7 +100,8 @@
  "coordinate":{
         "longitude": 51.45730308532715,
         "latitude":35.792789153613846
-      }
+      } ,
+            "current_page":1
 },
         {
 "id":"7",
@@ -121,7 +125,8 @@
  "coordinate":{
         "longitude": 51.46730308532715,
         "latitude":35.752789153613846
-      }
+      } ,
+            "current_page":1
 },
          {
 "id":"9",
@@ -133,7 +138,8 @@
  "coordinate":{
         "longitude": 51.45730308532715,
         "latitude":35.732789153613846
-      }
+      } ,
+            "current_page":2
 },
         
 {
@@ -146,7 +152,8 @@
  "coordinate":{
         "longitude": 51.45730308532715,
         "latitude":35.792789153613846
-      }
+      } ,
+            "current_page":2
 },
         {
 "id":"11",
@@ -158,7 +165,8 @@
  "coordinate":{
         "longitude": 51.45730308532715,
         "latitude":35.772789153613846
-      }
+      } ,
+            "current_page":2
 },
         {
 "id":"12",
@@ -170,7 +178,8 @@
  "coordinate":{
         "longitude": 51.46730308532715,
         "latitude":35.752789153613846
-      }
+      } ,
+            "current_page":2
 },
         {
 "id":"13",
@@ -182,7 +191,8 @@
  "coordinate":{
         "longitude": 51.45730308532715,
         "latitude":35.732789153613846
-      }
+      } ,
+            "current_page":2
 },
         
 {
@@ -195,7 +205,8 @@
  "coordinate":{
         "longitude": 51.45730308532715,
         "latitude":35.792789153613846
-      }
+      } ,
+            "current_page":2
 },
         {
 "id":"15",
@@ -207,7 +218,8 @@
  "coordinate":{
         "longitude": 51.45730308532715,
         "latitude":35.772789153613846
-      }
+      } ,
+            "current_page":2
 },
         {
 "id":"16",
@@ -219,7 +231,8 @@
  "coordinate":{
         "longitude": 51.46730308532715,
         "latitude":35.752789153613846
-      }
+      } ,
+            "current_page":2
 }
         
         ]
