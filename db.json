@@ -236,4 +236,15 @@
 }
         
         ]
+    
+    ,
+    "user":{
+    userId:1,
+        username:'ahmad.jamali',
+        password:'123',
+        education:'لیسانس',
+        work:'عکاس',
+        email:'ahmad.jamali@gmail.com',
+        description:'این متن توضیحات میباشد'
+    }
 }
