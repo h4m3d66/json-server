@@ -238,7 +238,7 @@
         ]
     
     ,
-    "users":[
+    "userInfoForEdit":
         {
     "userId":1,
         "username":"ahmad.jamali",
@@ -247,15 +247,6 @@
         "work":"عکاس",
         "email":"ahmad.jamali@gmail.com",
         "description":"این متن توضیحات میباشد"
-        },
-        {
-         "userId":2,
-        "username":"bahman.bahmani",
-        "password":"456",
-        "education":"دکترا",
-        "work":"مجری",
-        "email":"bahman.bahmani@gmail.com",
-        "description":"این متن توضیحات میباشد"
         }
-    ]
+    
 }
