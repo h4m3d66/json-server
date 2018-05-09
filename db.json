@@ -241,7 +241,7 @@
     "userInfoForEdit":
         {
     "userId":1,
-            "avatarSource":{"uri":""}
+            "avatarSource":{"uri":""},
         "username":"ahmad.jamali",
         "password":"123",
         "education":"لیسانس",
