@@ -240,6 +240,7 @@
     ,
     "userInfoForEdit":
         {
+             "id":1,
     "userId":1,
             "avatarSource":{"uri":""},
         "username":"ahmad.jamali",
