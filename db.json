@@ -251,4 +251,16 @@
         "description":"این متن توضیحات میباشد"
         }
     
+     ,
+    "userPublicInfo":
+        {
+    "userId":1,
+            "avatarSource":{"uri":""},
+        "username":"ahmad.jamali",
+        "education":"لیسانس",
+        "job":"عکاس",
+        "email":"ahmad.jamali@gmail.com",
+        "description":"این متن توضیحات میباشد"
+        }
+    
 }
