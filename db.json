@@ -242,7 +242,7 @@
         {
              "id":1,
     "userId":1,
-                   "avatarSource":"",
+              
             "username":"ahmad.jamali",
         "password":"123",
         "education":"لیسانس",
@@ -255,7 +255,7 @@
     "userPublicInfo":
         {
     "userId":1234,
-            "avatarSource":"",
+          
                "fullName":"احمد جمالی",
         "username":"ahmad.jamali",
         "education":"لیسانس",
