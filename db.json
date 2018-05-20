@@ -242,26 +242,39 @@
         {
              "id":1,
     "userId":1,
-              
-            "username":"ahmad.jamali",
-        "password":"123",
-        "education":"لیسانس",
-        "job":"عکاس",
-        "email":"ahmad.jamali@gmail.com",
+     "firstname":"احمد",
+      "lastname":"جمالی",
+      "username":"ahmad.jamali",
+      "password":"123",
+       "education":"لیسانس",
+       "job":"عکاس",
+        "cityId":1,
+            
+       "email":"ahmad.jamali@gmail.com",
+       "instagram":"http://instagram.com",
+       "telegram":"http://telegram.com",
+        "tweeter":"http://tweeter.com",
         "description":"این متن توضیحات میباشد"
         }
     
      ,
     "userPublicInfo":
         {
-    "userId":1234,
-          
-               "fullName":"احمد جمالی",
-        "username":"ahmad.jamali",
-        "education":"لیسانس",
-        "job":"عکاس",
-        "email":"ahmad.jamali@gmail.com",
+     "userId":1,
+    "firstname":"احمد",
+      "lastname":"جمالی",
+      "username":"ahmad.jamali",
+      "password":"123",
+       "education":"لیسانس",
+       "job":"عکاس",
+        "cityId":1,
+            
+       "email":"ahmad.jamali@gmail.com",
+       "instagram":"http://instagram.com",
+       "telegram":"http://telegram.com",
+        "tweeter":"http://tweeter.com",
         "description":"این متن توضیحات میباشد"
         }
-    
+    ,
+    "cities":[{"id":1,"title":"تهران"},{"id":1,"title":"کرج"},{"id":1,"title":"شیراز"}]
 }
