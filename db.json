@@ -248,7 +248,7 @@
       "password":"123",
        "education":"لیسانس",
        "job":"عکاس",
-        "cityId":1,
+             "city":"تهران",
             
        "email":"ahmad.jamali@gmail.com",
        "instagram":"http://instagram.com",
@@ -267,7 +267,7 @@
       "password":"123",
        "education":"لیسانس",
        "job":"عکاس",
-        "cityId":1,
+        "city":"تهران",
             
        "email":"ahmad.jamali@gmail.com",
        "instagram":"http://instagram.com",
