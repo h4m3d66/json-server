@@ -242,8 +242,8 @@
         {
              "id":1,
     "userId":1,
-     "firstname":"احمد",
-      "lastname":"جمالی",
+     "firstName":"احمد",
+      "lastName":"جمالی",
       "username":"ahmad.jamali",
       "password":"123",
        "education":"لیسانس",
@@ -261,8 +261,8 @@
     "userPublicInfo":
         {
      "userId":1,
-    "firstname":"احمد",
-      "lastname":"جمالی",
+    "firstName":"احمد",
+      "lastName":"جمالی",
       "username":"ahmad.jamali",
       "password":"123",
        "education":"لیسانس",
