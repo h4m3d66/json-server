@@ -242,6 +242,7 @@
         {
              "id":1,
     "userId":1,
+             gender:true,
      "firstName":"احمد",
       "lastName":"جمالی",
       "username":"ahmad.jamali",
@@ -262,6 +263,7 @@
     "userPublicInfo":
         {
      "userId":1,
+            gender:true,
     "firstName":"احمد",
       "lastName":"جمالی",
       "username":"ahmad.jamali",
