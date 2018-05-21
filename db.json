@@ -254,7 +254,8 @@
        "instagram":"http://instagram.com",
        "telegram":"http://telegram.com",
         "tweeter":"http://tweeter.com",
-        "description":"این متن توضیحات میباشد"
+        "bio":"این متن بیوگرافی میباشد",
+        "headline":"این متن هدلاین میباشد"
         }
     
      ,
@@ -273,7 +274,8 @@
        "instagram":"http://instagram.com",
        "telegram":"http://telegram.com",
         "tweeter":"http://tweeter.com",
-        "description":"این متن توضیحات میباشد"
+       "bio":"این متن بیوگرافی میباشد",
+        "headline":"این متن هدلاین میباشد"
         }
     ,
     "cities":[{"id":1,"title":"تهران"},{"id":1,"title":"کرج"},{"id":1,"title":"شیراز"}]
