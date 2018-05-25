@@ -1,6 +1,5 @@
 {
     "coordinates": [
-    
       {
        "longitude": 51.32734817504882,
        "latitude": 35.692789153613846
@@ -37,7 +36,6 @@
       } ,
             "current_page":1
 },
-        
 {
 "id":"2",
 "user_id":"2",   
@@ -88,7 +86,6 @@
         "latitude":35.732789153613846
       }
 },
-        
 {
 "id":"6",
 "user_id":"2",   
@@ -140,7 +137,6 @@
       } ,
             "current_page":1
 },
-        
 {
 "id":"10",
 "user_id":"2",   
@@ -192,8 +188,7 @@
         "latitude":35.732789153613846
       } ,
             "current_page":2
-},
-        
+},    
 {
 "id":"14",
 "user_id":"2",   
@@ -233,7 +228,6 @@
       } ,
             "current_page":2
 }
-        
         ]
     ,
     "user":
@@ -247,7 +241,7 @@
       "password":"123",
        "education":"لیسانس",
        "job":"عکاس",
-             "city":"تهران",
+        "city":"تهران",
        "email":"ahmad.jamali@gmail.com",
        "instagram":"http://instagram.com",
        "telegram":"http://telegram.com",
@@ -261,15 +255,14 @@
     "userPublicInfo":
         {
      "userId":1,
-            "gender":true,
+      "gender":true,
     "firstName":"احمد",
       "lastName":"جمالی",
       "username":"ahmad.jamali",
       "password":"123",
        "education":"لیسانس",
        "job":"عکاس",
-        "city":"تهران",
-            
+        "city":"تهران", 
        "email":"ahmad.jamali@gmail.com",
        "instagram":"http://instagram.com",
        "telegram":"http://telegram.com",
