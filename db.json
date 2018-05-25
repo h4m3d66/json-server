@@ -253,7 +253,9 @@
        "telegram":"http://telegram.com",
         "tweeter":"http://tweeter.com",
         "bio":"این متن بیوگرافی میباشد",
-        "headline":"این متن هدلاین میباشد"
+        "headline":"این متن هدلاین میباشد",
+           "nationalCode":"1111001111",
+        "banCardNumber":"1111222233334444",
         }
      ,
     "userPublicInfo":
